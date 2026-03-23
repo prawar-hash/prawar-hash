@@ -18,7 +18,7 @@
 💻 Strong in C, C++, DSA & Python  
 🔐 Interested in Backend Development & AI Systems  
 📊 Building real-world projects with a problem-solving mindset  
-🌱 Currently learning Machine Learning & Data Science  
+🌱 Currently working on Machine Learning & Data Science
 
 </td>
 
@@ -80,11 +80,10 @@ To build intelligent systems combining AI with strong backend logic and scalable
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=prawar-hash&theme=buefy&hide_border=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=prawar-hash&theme=buefy&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prawar-hash&theme=buefy&layout=compact)
+<p>
+  <img align="center" 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=KayasSecret&theme=dark&background=000000&ring=ff0000&fire=ff6600" />
+</p>
 
 ---
 
