@@ -80,9 +80,11 @@ To build intelligent systems combining AI with strong backend logic and scalable
 
 ## 📊 GitHub Stats
 
+![](https://github-readme-stats.vercel.app/api?username=prawar-hash&theme=buefy&hide_border=false)!
+
 <p>
   <img align="center" 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=prawar-hash&theme=dark&background=000000&ring=ff0000&fire=ff6600" />
+  src="https://github-readme-streak-stats.herokuapp.com/?user=prawar-hash&theme=pink&background=000000&ring=ff0000&fire=ff6600" />
 </p>
 
 ---
