@@ -39,7 +39,7 @@
 - Backend Development (Python + MySQL)  
 - File Handling & System Design  
 - CLI-based Application Development  
-- Basic AI & Data Analytics  
+- Basic AI & Data Analytics. 
 
 ---
 
