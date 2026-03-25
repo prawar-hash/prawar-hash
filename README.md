@@ -84,7 +84,7 @@ To build intelligent systems combining AI with strong backend logic and scalable
 
 <p>
   <img align="center" 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=prawar-hash&theme=buefy" />
+  src="https://github-readme-streak-stats.herokuapp.com/?user=prawar-hash&theme=white" />
 </p>
 
 ---
