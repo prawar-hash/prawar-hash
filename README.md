@@ -39,7 +39,7 @@
 - Backend Development (Python + MySQL)  
 - File Handling & System Design  
 - CLI-based Application Development  
-- Basic AI & Data Analytics.
+- Basic AI & Data Analytics
 
 ---
 
@@ -80,7 +80,7 @@ To build intelligent systems combining AI with strong backend logic and scalable
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=prawar-hash&theme=buefy&hide_border=false)!
+[](https://github-readme-stats.vercel.app/api?username=prawar-hash&theme=buefy&hide_border=false)!
 
 <p>
   <img align="center" 
