@@ -18,7 +18,7 @@
 💻 Strong in C, C++, DSA, Python & MySQL  
 🔐 Interested in Backend Development & AI Systems  
 📊 Building real-world projects with a problem-solving mindset  
-🌱 Currently working on Machine Learning & Data Science.
+🌱 Currently working on Machine Learning & Data Science
 
 </td>
 
