@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/prawar-hash/prawar-hash/main/banner.jpeg" width="85%" />
+  <img src="https://raw.githubusercontent.com/prawar-hash/prawar-hash/main/banner1.jpeg" width="85%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Prawar Karande</h1>
